@@ -1,8 +1,10 @@
-#
+gabi fochezatto
 
-**fochezatto/fochezatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning  alura
 - 📫 How to reach me: insta: @gabi.fochezatto
 - 😄 Pronouns: ela/dela
-![](https://media.tenor.com/s2FF51acJmEAAAAd/keira-the-popstar-gif.gif)
+
+
+![image](https://github.com/fochezatto/fochezatto/assets/132901406/b7691572-b5d7-4027-993c-e60502a8b35f)
+
