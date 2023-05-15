@@ -1,6 +1,6 @@
 *OIIE! Bem vindo ao meu perfil no GitHub*
 
-*Gabi Fochezatto*
+**Gabi Fochezatto** 🫀
 
 - I’m currently learning  alura
  
