@@ -1,5 +1,5 @@
-gabi fochezatto
-
+OIIE! Bem vindo ao meu perfil no GitHub
+Gabi Fochezatto
 
 - 🌱 I’m currently learning  alura
 - 📫 How to reach me: insta: @gabi.fochezatto
